@@ -5,7 +5,7 @@
 This repository contains the code and resources for my churn prediction project focused on WiFi services within the telecom industry. The goal of this project is to develop machine learning models that can accurately predict customer churn, enabling proactive retention strategies to be implemented.
 # data 
 This repository includes the following data files:
-- telecom_customer_churn.csv': Contains customer demographic information such as age, gender,customer status, cgurn reason,payment method etc.,
+- telecom_customer_churn.csv': Contains customer demographic information such as age, gender,customer status, churn reason,payment method etc.,
 You can download the dataset from the following link:
 [Link to Dataset](https://drive.google.com/file/d/1w9-XnWdNqSyDa5nqosHeCdjYOD3iiltt/view?usp=drive_link)
 # Methodology
